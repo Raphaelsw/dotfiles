@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = raphswiel@gmail.com
+	name = Raphael Swiel
